@@ -1,4 +1,4 @@
-package com.grant.research.redis;
+package com.grant.research.api.redis.controller;
 
 import com.grant.research.utils.RedisUtils;
 import org.springframework.beans.factory.annotation.Autowired;
