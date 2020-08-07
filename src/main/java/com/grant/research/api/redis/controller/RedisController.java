@@ -39,7 +39,7 @@ public class RedisController {
     }
 
     /**
-     * 测试redis能够正常使用 （插入/更新）
+     * 测试redis能够正常使用 （不存在即插入）
      * @param redisKey redis key
      * @param redisValue redis value
      * @param request HttpServletRequest
